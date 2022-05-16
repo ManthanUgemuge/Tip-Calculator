@@ -13,7 +13,7 @@ Tip Calculator made using Html, CSS, Bootstrap, JavaScript to calculate Tip for 
 ```
 https://github.com/ManthanUgemuge/TipCalculator.git
 ```
-Run Directly here - [Live](https://manthanugemuge.github.io/TipCalculator/)//[Download]()
+Run Directly here - [Live](https://manthanugemuge.github.io/TipCalculator/)//[Download](https://github.com/ManthanUgemuge/TipCalculator/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
