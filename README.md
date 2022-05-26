@@ -3,7 +3,7 @@ Tip Calculator made using Html, CSS, Bootstrap, JavaScript to calculate Tip for 
 
 ## About the Project
 
-Tip Calculator made using Html, CSS, Bootstrap, JavaScript to calculate Tip for Hotels in Rupees(₹).
+Tip Calculator made Basic Web Applicarion using Html, CSS, Bootstrap, JavaScript to calculate Tip for Hotels in Rupees(₹).
 
 ## Tech Stacks Used :
 
