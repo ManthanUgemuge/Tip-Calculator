@@ -1,4 +1,4 @@
-# TipCalculator
+# Tip Calculator
 Tip Calculator made using Html, CSS, Bootstrap, JavaScript to calculate Tip for Hotels in Rupees(₹).
 
 ## About the Project
@@ -17,7 +17,7 @@ Tip Calculator a basic Web Application using Html, CSS, Bootstrap, JavaScript to
 ```
 https://github.com/ManthanUgemuge/Tip-Calculator.git
 ```
-Run Directly here - [Live](https://manthanugemuge.github.io/Tip-Calculator/)//[Download](https://github.com/ManthanUgemuge/TipCalculator/archive/refs/heads/main.zip)
+Run Directly here - [Live](https://manthanugemuge.github.io/Tip-Calculator/)//[Download](https://github.com/ManthanUgemuge/Tip-Calculator/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
