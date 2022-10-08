@@ -15,9 +15,9 @@ Tip Calculator a basic Web Application using Html, CSS, Bootstrap, JavaScript to
 
 - Download or clone the repository Website : 
 ```
-https://github.com/ManthanUgemuge/Tip-Calculator.git
+https://github.com/manthanugemuge/tip-calculator.git
 ```
-Run Directly here - [Live](https://manthanugemuge.github.io/Tip-Calculator/)//[Download](https://github.com/ManthanUgemuge/Tip-Calculator/archive/refs/heads/main.zip)
+Run Directly here - [Live](https://manthanugemuge.github.io/tip-calculator/)//[Download](https://github.com/ManthanUgemuge/tip-calculator/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
